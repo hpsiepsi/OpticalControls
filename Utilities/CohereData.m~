@@ -1,0 +1,20 @@
+function data = CohereData(data, lowLimit, highLimit)
+
+
+
+
+
+
+
+%out = data;
+
+%if data > highLimit
+%    out = highLimit;
+%end
+
+%if data < lowLimit
+%    out = lowLimit;
+%end
+
+
+end

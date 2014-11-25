@@ -1,0 +1,65 @@
+1.
+Hello, I am Matthew Ross, a senior student in the Kevin Kubarych's lab at the University of Michigan.
+I will be talking to you today about one of my projects, ”Solvation influenced fluxtionality studied by ultrafast chemical exchange spectroscopy”.
+
+2.
+Let me start by discussing chemical reactions with low barriers. By low barriers, I am simply referring to barriers comparable to or less than kT.
+Lowering reaction barriers to the point where reactions will occur at a reasonable rates is a huge area of chemistry. Beyond active work by chemists, the evolved complexity of proteins for lowering the barriers of chemical reaction speaks the importance lowering reaction barriers allowing for production of compounds by chemists or organisms that otherwise would not occur naturally.
+
+The focus of this talk is looking at the solvent environment of a specific simple reaction with a low barrier.
+
+3.
+Iron pentacarbonyl can undergo functionality, a process by which a chemical changes occurs which results in the same thing you started with. In this case, IPC exchanges ligands in different positions, more about that in a moment.  This reaction is particularly suitable for looking at solvent environment effects in the liquid phase, as there is a significant simplification, the reactants are the products.
+
+4.
+Energy, entropy, and concentrations can't change. Moreover, the equilibrium constant is always one. This removes the effects of viscosity and concentration on reaction rates that must be accounted for in other systems.
+IPC's also good for our experiments as it has a clean, well understood spectrum in the wavelength range of our 2DIR system.
+
+5.
+A bit more on functionality. In this case the molecule undergoes Berry pseudorotation. 2 axial COs bend towards one another while 2 equatorial COs also been towards one another, eventually switching roles of each pair within the molecule.
+
+6 - 7.
+In many systems, 2DIR cross peak growth reports on intramolecular vibrational redistribution (IVR).  Here we expect the minimal IVR as there should be minimal coupling between axial and equatorial modes. Consider the local mode Hamiltonian on the bottom right. Symmetry arguments give relatively few unique elements, mostly in axial or equatorial blocks of the Hamiltonian. The coupling between these blocks are sufficiently small both from geometrical arrangement, minimal spectral overlap between axial equatorial modes and small anharmonic coupling from pi-back-bonding.
+
+8.
+We are not the 1st group to study IPC or functionality in IPC. Most relevant to this discussion includes work by Charles Harris's published ib a 2008 Science paper investigating the transition state in IPC using multidimensional methods. We seek to expand the number and types of solvents this transition rates has been have been studied in.
+The Rose Petrarch group did a FT IR and computational study of IPC with various alcohols. Since they used linear one-dimensional spectroscopy, they were not sensitive to the functionality rate. We are able to measure that.
+
+9.
+Now a bit about our use of ultrafast multidimensional spectroscopy to measure this process.
+This figure represents a cartoon 2-D spectrum. Above the 2-D spectrum you'll see a 1D spectrum that shows a system with 2 relevant peaks. In 2-D we are able to spread this information out by correlating excitation and detection frequencies. While others are likely to tell you other uses for multidimensional spectroscopy, for this particular system we exploit the ability to detect changes in energy levels during the measurement. The chemical exchange in our ultrafast chemical exchange spectroscopy.
+
+10.
+If by some means, such as thermal fluctuation or internal relaxation, the energy distribution within the system changes during the measurement, we will see an off-diagonal peak. The growth of these off-diagonal peaks is what we will use to measure the rate of functionality.
+
+11 - 13.
+As we increase the waiting time between exciting or labeling vibrations and detecting vibrations in our iron pentacarbonyl we can observe these cross beaks grow in.
+
+
+14. As is often the case, the real data is a bit more complicated. This cartoon shows a typical long waiting time 2D spectrum of IPC. On the diagonal are the typical ground state beaches, and shifted below by the anharmonicity are the excited state absorptions. As discussed earlier, there are cross peaks between these peaks.
+
+15.
+Here is a typical spectrum from our lab's new pulse shaper-based 2-D IR experiment. I spent much of my graduate career building this set up. As you can see all the peaks I just discussed are present in this long waiting-time delay spectrum.
+
+16.
+Getting back to solvents, recall that we are looking at several solvents and measuring the effects on the pseudorotation rate. In the 1st set of solvents to consider we vary the viscosity.  This should affect the rate of the reaction. Taking a Kramer's theory view of the reaction, basically Brownian motion on a potential, we expect solvents to have a significant effect on the rates as we are near the high friction limit. Here we take viscosity as a proxy for the friction coefficient, as is often appropriate in such systems.
+Our other solvents are alcohols, which interact through dipoles with the CO groups. Previous work showed that complexes can form between the alcohols and the IPC, stabilized by, up to 5 kJ per mole. This should also break molecular symmetry, possibly turning on IR oscillator strengt of previously Raman-only modes.
+
+17.
+Here's a comparison between hexane, red, with low viscosity (.3 cP), and squalene, blue ( 12 cP). You're looking at the integrated volume of the low to high frequency cross peak. This turns out to be the least noisy. We see a factor of 2 change in the growth rate. The slow vibrational decay is basically unchanged. I should note that the lower line is offset intentionally to make the traces easier to compare.
+
+18.
+Moving on to alcohols. Rose Petrarch's group previously reported on the FTIR spectra and computational results for IPC in alcohols.
+Of note, is that the FTIR spectrum broadened with shorter alcohols.
+Also, previously inaccessible Roman modes gain IR oscillator strength, an indication of broken molecular symmetry.
+
+19.
+Here we see two cross peak growth traces for IPC in ethanol and propanol. Propanol is about twice the viscosity of ethanol and should slow the functionality.  It slows by about a factor of 3, more than we might expect from the viscosity data earlier. Despite having  higher OH density, which could stabilize a geometric configuration, ethanol allows for faster growth than the hexane by a factor of two. Based on the FTIR, ethanol broadens the IPC spectrum. It's possible increased IVR may occur due to the increased spectral overlap and reduced symmetry of the system.
+
+20.
+In conclusion, we are able to use ultrafast chemical exchange spectroscopy, a specific application of the multidimensional spectroscopy ultrafast optics has enabled. To monitor fluxtionality. This reports on solvent effects in low barrier reactions.  We see effects of viscosity slowing rates and possibly more complicated dynamics in interacting solvents.
+I would like to thank Prof. Kevin to barge from the University of Michigan as well as our other group members. And thank you for listening.
+
+
+
+
